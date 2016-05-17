@@ -2,8 +2,8 @@
 
 This is a minimum example of a bug between nginx 1.10 and iOS 9.3 when using HTTP/2.
 
-Filed to nginx as https://trac.nginx.org/nginx/ticket/959
-Filed to Apple as 26285066
+- Filed to nginx as https://trac.nginx.org/nginx/ticket/959
+- Filed to Apple as 26285066
 
 ## Triggering the bug
 
